@@ -6,3 +6,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* navbar */
+/* if using bootstrap use w-*number* in class to resize width */
+img[alt=logo]{
+    width: 8rem;
+}
